@@ -1,4 +1,6 @@
-# Hi 👋, I'm Farjana Yasmen Shuva
+# Hi 👋, I'm Farjana Yasmen
+
+![Profile views](https://komarev.com/ghpvc/?username=shuva032&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🎓 Final Year CSE Student | Aspiring Software Engineer 
 
