@@ -13,12 +13,6 @@
 
 ---
 
-## 🚀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuva032&show_icons=true&theme=default" />
-</p>
-
----
 
 ## 🔥 Streak Stats
 <p align="center">
@@ -40,14 +34,6 @@
   </a>
 </p>
 
----
-
-## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html, flutter,css,git,github,vscode" />
-</p>
-
----
 
 ## 💬 Motto
 ✨ *"Innovation begins with curiosity."*
