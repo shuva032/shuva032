@@ -1,4 +1,4 @@
-# Hi 👋, I'm Farjana Yasmen
+# Hi 👋, I'm Farjana Yasmen Shuva
 
 ### 🎓 Final Year CSE Student | Aspiring Software Engineer 
 
